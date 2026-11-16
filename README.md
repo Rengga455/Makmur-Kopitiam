@@ -2,7 +2,7 @@
 
 Website katalog menu digital dan profil resmi untuk **MAKMUR KOPITIAM**, dirancang dengan pendekatan estetika yang memadukan nuansa gelap elegan (*obsidian*) dengan aksen emas sampanye (*gold*).
 Dibuat Oleh: Barengga Ss
-🔗 **Live Demo:** [Lihat Website di Sini]([https://github.com/Rengga455/Makmur-Kopitiam.git](https://github.com/Rengga455/Makmur-Kopitiam.git) 
+🔗 **Live Demo:** [Lihat Website di Sini]  
 
 ---
 
