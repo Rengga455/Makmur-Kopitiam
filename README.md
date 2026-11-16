@@ -1,8 +1,8 @@
 # ☕ MAKMUR KOPITIAM — Digital Menu & Cafe Profile
 
-Website katalog menu digital dan profil resmi untuk **MAKMUR KOPITIAM**, dirancang dengan pendekatan estetika *Modern Luxury (Fancy)* yang memadukan nuansa gelap elegan (*obsidian*) dengan aksen emas sampanye (*gold*).
+Website katalog menu digital dan profil resmi untuk **MAKMUR KOPITIAM**, dirancang dengan pendekatan estetika yang memadukan nuansa gelap elegan (*obsidian*) dengan aksen emas sampanye (*gold*).
 Dibuat Oleh: Barengga Ss
-🔗 **Live Demo:** [Lihat Website di Sini](https://username-anda.github.io/makmur-kopitiam/) *(Ganti dengan link GitHub Pages Anda)*
+🔗 **Live Demo:** [Lihat Website di Sini]([https://github.com/Rengga455/Makmur-Kopitiam.git](https://github.com/Rengga455/Makmur-Kopitiam.git) 
 
 ---
 
